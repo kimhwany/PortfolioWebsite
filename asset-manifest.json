@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/PortfolioWebsite/static/css/main.ec6dc67e.css",
+    "main.js": "/PortfolioWebsite/static/js/main.268aac5f.js",
+    "static/media/hwanykim.jpg": "/PortfolioWebsite/static/media/hwanykim.187f9de1b092df90a4ef.jpg",
+    "static/media/golang.png": "/PortfolioWebsite/static/media/golang.c40527e997d69bbd70c1.png",
+    "static/media/portfolioWebsite.png": "/PortfolioWebsite/static/media/portfolioWebsite.23306cc9f4ee01302e9c.png",
+    "static/media/workout_tracker_logo.png": "/PortfolioWebsite/static/media/workout_tracker_logo.bbb201df7e6617eabcd4.png",
+    "static/media/pythonAutomation.png": "/PortfolioWebsite/static/media/pythonAutomation.99857938a8322cafa65e.png",
+    "static/media/HwanyKim_Resume.pdf": "/PortfolioWebsite/static/media/HwanyKim_Resume.e9f27002a594ef5071fe.pdf",
+    "static/media/linkedin.png": "/PortfolioWebsite/static/media/linkedin.0f3b6ec21027968fcbf7.png",
+    "static/media/pre.svg": "/PortfolioWebsite/static/media/pre.88bed3d456011debf800.svg",
+    "index.html": "/PortfolioWebsite/index.html",
+    "main.ec6dc67e.css.map": "/PortfolioWebsite/static/css/main.ec6dc67e.css.map",
+    "main.268aac5f.js.map": "/PortfolioWebsite/static/js/main.268aac5f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec6dc67e.css",
+    "static/js/main.268aac5f.js"
+  ]
+}
