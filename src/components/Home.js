@@ -92,7 +92,7 @@ function Home() {
             <ProjectCard
               imgPath={workoutApp}
               title={"Workout Tracking App"}
-              description="Developed using Java, OOP, SOLID Principles, JavaFX"
+              description="Developed using Java, JavaFX, OOP, and SOLID Principles."
               link={"https://github.com/kimhwany/Workout-Tracker-Project"}
             />
           </Col>
@@ -100,7 +100,7 @@ function Home() {
             <ProjectCard
               imgPath={portfolioWebsite}
               title="Portfolio Website"
-              description="Developed using React.js, JavaScript, Bootstrap.css, HTML/ CSS"
+              description="Developed using React.js, Bootstrap.css, JavaScript, and HTML/ CSS."
               link={"https://github.com/kimhwany/PortfolioWebsite"}
             />
           </Col>
